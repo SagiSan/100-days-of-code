@@ -9,6 +9,15 @@ Tomorrow doing the funcionalities.
 **Thoughts:** So far so good :D.
 **Link to work:** [Calculator App](https://codepen.io/Sagi_San/full/eBrgxQ/)
 
+### Day 2: January 06, 2017 
+
+
+**Today's Progress**: Finishing html, css part of calculator. Adding button click effect with box shadow.
+
+**Thoughts:** Been trying out couple of things, ended up doing what I planned in the first place. But I learned
+a lot of new stuff.
+**Link to work:** [Calculator App](https://codepen.io/Sagi_San/full/eBrgxQ/)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
