@@ -18,6 +18,18 @@ Tomorrow doing the funcionalities.
 a lot of new stuff.
 **Link to work:** [Calculator App](https://codepen.io/Sagi_San/full/eBrgxQ/)
 
+
+### January 07 ,2017 - was on 12hour trip - unable to work
+
+### Day 3: January 08, 2017 
+
+
+**Today's Progress**: Added functionalities to buttons.Still need to implement input conditions.
+
+**Thoughts:** Im happy that calculator is functional on basic level, although I need to set conditions for input
+(ex: / 7.. x 5..- entering operation signs on begining).
+**Link to work:** [Calculator App](https://codepen.io/Sagi_San/full/eBrgxQ/)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
