@@ -30,6 +30,16 @@ a lot of new stuff.
 (ex: / 7.. x 5..- entering operation signs on begining).
 **Link to work:** [Calculator App](https://codepen.io/Sagi_San/full/eBrgxQ/)
 
+
+### Day 4: January 09, 2017 
+
+
+**Today's Progress**: Fully operational calculator with conditions.Responsive style left to do.
+
+**Thoughts:** Almost done. Everything working except adding multiple "." in one number makes a problem.Need to fix that.
+Tomorrow making it responsive. Looks like its only nice on my screen :D.
+**Link to work:** [Calculator App](https://codepen.io/Sagi_San/full/eBrgxQ/)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
