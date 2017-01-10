@@ -7,7 +7,7 @@
 Tomorrow doing the funcionalities.
 
 **Thoughts:** So far so good :D.
-**Link to work:** [Calculator App](https://codepen.io/Sagi_San/full/eBrgxQ/)
+**Link to work:** [Calculator App](http://codepen.io/Sagi_San/full/ggbXVj/)
 
 ### Day 2: January 06, 2017 
 
@@ -16,7 +16,7 @@ Tomorrow doing the funcionalities.
 
 **Thoughts:** Been trying out couple of things, ended up doing what I planned in the first place. But I learned
 a lot of new stuff.
-**Link to work:** [Calculator App](https://codepen.io/Sagi_San/full/eBrgxQ/)
+**Link to work:** [Calculator App](http://codepen.io/Sagi_San/full/ggbXVj/)
 
 
 ### January 07 ,2017 - was on 12hour trip - unable to work
@@ -28,7 +28,7 @@ a lot of new stuff.
 
 **Thoughts:** Im happy that calculator is functional on basic level, although I need to set conditions for input
 (ex: / 7.. x 5..- entering operation signs on begining).
-**Link to work:** [Calculator App](https://codepen.io/Sagi_San/full/eBrgxQ/)
+**Link to work:** [Calculator App](http://codepen.io/Sagi_San/full/ggbXVj/)
 
 
 ### Day 4: January 09, 2017 
@@ -38,7 +38,17 @@ a lot of new stuff.
 
 **Thoughts:** Almost done. Everything working except adding multiple "." in one number makes a problem.Need to fix that.
 Tomorrow making it responsive. Looks like its only nice on my screen :D.
-**Link to work:** [Calculator App](https://codepen.io/Sagi_San/full/eBrgxQ/)
+**Link to work:** [Calculator App](http://codepen.io/Sagi_San/full/ggbXVj/)
+
+
+### Day 5: January 10, 2017 
+
+
+**Today's Progress**: JavaScript Calculator completed. Added some box-shadow to make it look like buttons have underlight.
+
+**Thoughts:** Im pretty satisfied with work. I like my design and I learned a lot of stuff. Next step will be make it mobile friendly
+but sometimes later. Focusing on finishing FCC projects.
+**Link to work:** [Calculator App](http://codepen.io/Sagi_San/full/ggbXVj/)
 
 <!-- ### Day 1: June 27, Monday
 
