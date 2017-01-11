@@ -50,6 +50,16 @@ Tomorrow making it responsive. Looks like its only nice on my screen :D.
 but sometimes later. Focusing on finishing FCC projects.
 **Link to work:** [Calculator App](http://codepen.io/Sagi_San/full/ggbXVj/)
 
+
+### Day 6: January 11, 2017 
+
+
+**Today's Progress**: Started working on Pomodoro clock FCC project.Added svg circle animation.
+
+**Thoughts:** I've been researching to find ideal way of doing this. Lost a lot of time. I find circle animation harder 
+than I thought it would be.
+**Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/full/wgGKQJ/)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
