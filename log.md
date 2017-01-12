@@ -60,6 +60,16 @@ but sometimes later. Focusing on finishing FCC projects.
 than I thought it would be.
 **Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/full/wgGKQJ/)
 
+### Day 7: January 12, 2017 
+
+
+**Today's Progress**: Added circle functionality.Works on time displayed.Figured out finally how
+to do it.Tomorrow gonna implement user time change functionality.
+
+**Thoughts:** Again lost time researching,but atleast now I figured out how to do it.I have some other
+projects which are taking my time so I cant focus more than one hour on this one .
+**Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
