@@ -81,6 +81,16 @@ projects which are taking my time so I cant focus more than one hour on this one
 **Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
 
 
+### Day 9: January 14, 2017 
+
+
+**Today's Progress**: Started project from beginning. Old one got too much complicated and messy.
+Made circular progress bar with timer. Still needs some fixes.
+
+**Thoughts:** Old project was really bad in my opinion. I decided to start from scratch again.
+**Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
