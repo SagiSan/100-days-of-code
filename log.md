@@ -70,6 +70,17 @@ to do it.Tomorrow gonna implement user time change functionality.
 projects which are taking my time so I cant focus more than one hour on this one .
 **Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
 
+
+
+### Day 8: January 13, 2017 
+
+
+**Today's Progress**: Progress circle works on time.Added countdown interval do display time counting down.
+
+**Thoughts:** Today I was kinda lost. Even I didnt know what I did. Its a mess, but I will fix it.
+**Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
