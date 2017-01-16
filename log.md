@@ -102,6 +102,16 @@ I will stick to this method. Added 5sec 25sec timers and reset just to test it. 
 No more starting from beginning :D.
 **Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
 
+### Day 11: January 16, 2017 
+
+
+**Today's Progress**: Added improvised timers. Reset works. Circle progress bar works.
+
+
+**Thoughts:** It is going smoothly now after 4th attempt :D.Need to make it so that user can enter time.
+And some design improvement and I am done :D.
+**Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
+
 
 <!-- ### Day 1: June 27, Monday
 
