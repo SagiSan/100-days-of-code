@@ -91,6 +91,18 @@ Made circular progress bar with timer. Still needs some fixes.
 **Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
 
 
+### Day 10: January 15, 2017 
+
+
+**Today's Progress**: Started project from beginning again. This time I found the solution .
+I will stick to this method. Added 5sec 25sec timers and reset just to test it. Works perfectly :).
+
+
+**Thoughts:** Was getting really fustrated with trying to draw pie chart progress bar but finally I found a way.
+No more starting from beginning :D.
+**Link to work:** [Promodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
