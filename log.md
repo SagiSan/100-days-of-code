@@ -123,6 +123,18 @@ And some design improvement and I am done :D.
 **Link to work:** [Pomodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
 
 
+### Day 13: January 18, 2017 
+
+
+**Today's Progress**: Started tic tac toe game project. Super excited. For now I have
+2 player game (no computer), and X starts first. More than enough for one day in my opinion.
+
+
+**Thoughts:** I am excited to do this one. I love games. I did a lot for one day but I think
+the hard parts are yet to come.
+**Link to work:** [Tic Tac Toe](http://codepen.io/Sagi_San/full/WRRxrY/)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
