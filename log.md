@@ -113,6 +113,16 @@ And some design improvement and I am done :D.
 **Link to work:** [Pomodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
 
 
+### Day 12: January 17, 2017 
+
+
+**Today's Progress**: Finished. Timer is working.Rest are design and look details :D.
+
+
+**Thoughts:** Moving to next one. Tic Tac Toe :D.
+**Link to work:** [Pomodoro Clock](https://codepen.io/Sagi_San/pen/wgGKQJ)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
