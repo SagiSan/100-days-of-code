@@ -135,6 +135,17 @@ the hard parts are yet to come.
 **Link to work:** [Tic Tac Toe](http://codepen.io/Sagi_San/full/WRRxrY/)
 
 
+### Day 14: January 19, 2017 
+
+
+**Today's Progress**: Almost finished. Everything works. Just need to add option for user
+to choose X or O.
+
+
+**Thoughts:** I put computer to randomly play positions. I should make it better later.
+**Link to work:** [Tic Tac Toe](http://codepen.io/Sagi_San/full/WRRxrY/)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
