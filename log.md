@@ -146,6 +146,17 @@ to choose X or O.
 **Link to work:** [Tic Tac Toe](http://codepen.io/Sagi_San/full/WRRxrY/)
 
 
+
+### Day 15: January 20, 2017 
+
+
+**Today's Progress**:Added user choice for sign. Need some design improvement.
+
+
+**Thoughts:** I dont think its a good code but it works :D.
+**Link to work:** [Tic Tac Toe](http://codepen.io/Sagi_San/full/WRRxrY/)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
