@@ -157,7 +157,7 @@ to choose X or O.
 **Link to work:** [Tic Tac Toe](http://codepen.io/Sagi_San/full/WRRxrY/)
 
 
-### Day 16: January 20, 2017 
+### Day 16: January 21, 2017 
 
 
 **Today's Progress**:I did research on simon game so that I dont have to start project multiple
