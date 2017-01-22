@@ -169,6 +169,16 @@ much today. I did setup a bit. Just so that I have a fresh start tomorrow.
 **Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
 
 
+### Day 17: January 22, 2017 
+
+
+**Today's Progress**:Did some js things. Didnt come much today. Only 1hour. Most of it was fail tries :D.
+
+
+**Thoughts:** This is very challenging project.
+**Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
