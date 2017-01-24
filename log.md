@@ -189,6 +189,15 @@ much today. I did setup a bit. Just so that I have a fresh start tomorrow.
 **Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
 
 
+### Day 19: January 24, 2017 
+
+
+**Today's Progress**: Making progress. Getting closer to end. Today mostly design.
+
+**Thoughts:** I hope I will be able to finish it till the end of January.
+**Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
