@@ -198,6 +198,16 @@ much today. I did setup a bit. Just so that I have a fresh start tomorrow.
 **Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
 
 
+### Day 20: January 25, 2017 
+
+
+**Today's Progress**: Today was a tough day. I had no progress except that I learned what
+doesnt work.
+
+**Thoughts:** I made no progress today. Tough day.
+**Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
