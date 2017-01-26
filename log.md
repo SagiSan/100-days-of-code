@@ -208,6 +208,14 @@ doesnt work.
 **Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
 
 
+### Day 21: January 26, 2017 
+
+
+**Today's Progress**: Today was a good day. Added sound to clicks and repeat of sequence.
+**Thoughts:** Getting close to end. Finally made the sound work.
+**Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
