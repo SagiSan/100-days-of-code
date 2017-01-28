@@ -215,11 +215,23 @@ doesnt work.
 **Thoughts:** Getting close to end. Finally made the sound work.
 **Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
 
+
+
 ### Day 22: January 27, 2017 
 
 
 **Today's Progress**: Made some improvements. Default is now non strict mode.
 **Thoughts:** Making progress. Still its gonna be tough.
+**Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
+
+
+
+### Day 23: January 28, 2017 
+
+
+**Today's Progress**: Finished. New game and strict mode works. Rest are look details.
+**Thoughts:** Im busy a lot these days so I dont focus enough on design as I do just on functionality.
+When I have more time I plan to go back and rework my design.
 **Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
 
 
