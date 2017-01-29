@@ -235,6 +235,18 @@ When I have more time I plan to go back and rework my design.
 **Link to work:** [Simon Game](https://codepen.io/Sagi_San/pen/ZLKeEE)
 
 
+
+
+### Day 24: January 29, 2017 
+
+
+**Today's Progress**: Started building new portfolio page. I wanna see difference between my 
+starting knowledge and current (got FCC frontend certificate).
+**Thoughts:** I have a internship opportunity in one of the best companies where I live. I wanna do this
+the best I can to get that internship :D .
+**Link to work:** [New Portfolio](https://codepen.io/Sagi_San/full/XpVbLj/)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
