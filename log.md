@@ -247,6 +247,16 @@ the best I can to get that internship :D .
 **Link to work:** [New Portfolio](https://codepen.io/Sagi_San/full/XpVbLj/)
 
 
+
+### Day 25: January 30, 2017 
+
+
+**Today's Progress**: Continuing work on my portfolio page.
+**Thoughts:** I have a internship opportunity in one of the best companies where I live. I wanna do this
+the best I can to get that internship :D .
+**Link to work:** [New Portfolio](https://codepen.io/Sagi_San/full/XpVbLj/)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
