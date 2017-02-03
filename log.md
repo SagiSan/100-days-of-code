@@ -283,6 +283,15 @@ the best I can to get that internship :D .
 **Link to work:** [New Portfolio](https://codepen.io/Sagi_San/full/XpVbLj/)
 
 
+### Day 29: February 03, 2017 
+
+
+**Today's Progress**: Should be soon done with About section. navigation finally done.
+**Thoughts:** I like the new design way much more. Due to the codepen displaying things differently, I
+continued my project locally. You can check it on my github account.
+**Link to work:** [New Portfolio](https://github.com/SagiSan/Portfolio)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
