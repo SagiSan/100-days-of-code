@@ -266,6 +266,23 @@ the best I can to get that internship :D .
 **Link to work:** [New Portfolio](https://codepen.io/Sagi_San/full/XpVbLj/)
 
 
+### Day 27: February 01, 2017 
+
+
+**Today's Progress**: Continuing work on my portfolio page.
+**Thoughts:** I think I will start new one with new design. No matter what I do this one doesnt seems nice.
+**Link to work:** [New Portfolio](https://codepen.io/Sagi_San/full/XpVbLj/)
+
+
+
+### Day 28: February 02, 2017 
+
+
+**Today's Progress**: Started portfolio all over again.
+**Thoughts:** I came up with few ideas. I think this will work out. I hope so .
+**Link to work:** [New Portfolio](https://codepen.io/Sagi_San/full/XpVbLj/)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
