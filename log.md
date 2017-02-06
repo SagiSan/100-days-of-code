@@ -1,3 +1,8 @@
+
+### I sometimes forget to commit / push log for a certain day and do it tomorrow. Thats why you 
+###can see some commits having 2day logs, but still fulfilling the main rule of 100DayOfCode - coding everyday 
+###atleast 1hour
+
 # 100 Days Of Code - Log
 
 ### Day 1: January 05, 2017 
@@ -290,6 +295,27 @@ the best I can to get that internship :D .
 **Thoughts:** I like the new design way much more. Due to the codepen displaying things differently, I
 continued my project locally. You can check it on my github account.
 **Link to work:** [New Portfolio](https://github.com/SagiSan/Portfolio)
+
+
+
+
+### Day 30: February 04, 2017 
+
+
+**Today's Progress**: Moved on to the Resume section. Making bootstrap grid.
+**Thoughts:** Going pretty well. 
+**Link to work:** [New Portfolio](https://github.com/SagiSan/Portfolio)
+
+
+### Day 31: February 05, 2017 
+
+
+**Today's Progress**: Almost done with the resume section. Need to add my real projects there now.
+**Thoughts:** 7 days until the deadline for internship application :o. Excited and nervous at the same time.
+I hope this will end up good.
+**Link to work:** [New Portfolio](https://github.com/SagiSan/Portfolio)
+
+
 
 
 <!-- ### Day 1: June 27, Monday
