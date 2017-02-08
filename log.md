@@ -318,6 +318,17 @@ I hope this will end up good.
 
 
 
+### Day 32: February 08, 2017 
+
+
+**Today's Progress**: Contact section left and done. 5 more days until deadline.
+**Thoughts:** Altough I code everyday, I forget to commit and push the log. As punishment to myself, I wont count
+days I didnt push (6-7 February).
+**Link to work:** [New Portfolio](https://github.com/SagiSan/Portfolio)
+
+
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
