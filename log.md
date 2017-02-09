@@ -328,6 +328,15 @@ days I didnt push (6-7 February).
 
 
 
+### Day 33: February 09, 2017 
+
+
+**Today's Progress**: Finally finished portfolio and applied for internship :). gg wp 
+**Thoughts:** I am satisfied with what I've done even though I know it can be a lot better. Now we wait :D.
+**Link to work:** [New Portfolio](https://github.com/SagiSan/Portfolio)
+
+
+
 
 <!-- ### Day 1: June 27, Monday
 
