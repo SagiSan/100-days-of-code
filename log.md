@@ -337,6 +337,16 @@ days I didnt push (6-7 February).
 
 
 
+### Day 34: February 11, 2017 
+
+
+**Today's Progress**: Started learning asp.net mvc . Going through tutorial app.
+**Thoughts:** It seems much more easier and more clear after I have learned Angular 2, compared to the previous
+time that I have worked in asp.net.
+**Link to work:** [MvcMovie](https://github.com/SagiSan/ASP.NET-test)
+
+
+
 
 <!-- ### Day 1: June 27, Monday
 
