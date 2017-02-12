@@ -347,6 +347,15 @@ time that I have worked in asp.net.
 
 
 
+### Day 35: February 12, 2017 
+
+
+**Today's Progress**: Going to acme customer managment tutorial app.
+**Thoughts:** Its a great tutorial. Teaches you oop fundamentals as you build an app.
+**Link to work:** [ACM](https://github.com/SagiSan/ACM)
+
+
+
 
 <!-- ### Day 1: June 27, Monday
 
